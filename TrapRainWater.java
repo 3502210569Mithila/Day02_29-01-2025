@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class TrapRainWater {
     public static int trapRainwater(int[] arr) {
         int n = arr.length;
         if (n == 0) return 0;
